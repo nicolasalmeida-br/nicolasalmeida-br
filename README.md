@@ -6,12 +6,11 @@ Sou um desenvolvedor em formação, apaixonado por **tecnologia e programação*
 
 ## 🎓 Formação & Background
 - 🎓 **Técnico em Desenvolvimento de Sistemas:** Cursando no **SENAI Anchieta**, com foco em desenvolvimento de software, programação orientada a objetos e aplicações práticas.
-- 🧾 **Curso de Assistente Administrativo:** Realizado no **SENAI Frederico Jacob** em janeiro de **2025**, com foco em rotinas administrativas, organização de processos, documentação, atendimento e noções de gestão.
-- 🎓 **Ensino Médio:** Concluído em **escola estadual da SEDUC-SP** no final do ano de **2025**.
 
 ---
 
 ## 💻 O que tenho feito ultimamente
+- 🚀 Coordenando projetos pessoais, aplicando aprendizado e boas práticas de desenvolvimento
 - 🎨 Desenvolvendo interfaces **Front-End** com **HTML, CSS e JavaScript**
 - 📱 Criando aplicações **Android nativas** com **Java/Kotlin**
 - 🌐 Integrando aplicações Front-End com **APIs REST**
@@ -35,7 +34,6 @@ Sou um desenvolvedor em formação, apaixonado por **tecnologia e programação*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -47,8 +45,6 @@ Sou um desenvolvedor em formação, apaixonado por **tecnologia e programação*
 ---
 
 ### 📦 Build & Package
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
@@ -74,7 +70,6 @@ Sou um desenvolvedor em formação, apaixonado por **tecnologia e programação*
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
