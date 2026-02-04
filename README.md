@@ -46,8 +46,8 @@ Sou um estudante e desenvolvedor em formação, apaixonado por **tecnologia e pr
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasalmeida-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasalmeida-br&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasalmeida-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasalmeida-br&layout=compact&theme=dracula&cache_seconds=1800)
 
 ---
 
