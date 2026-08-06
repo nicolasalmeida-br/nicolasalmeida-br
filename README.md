@@ -5,7 +5,9 @@ Sou um desenvolvedor em formação, apaixonado por **tecnologia e programação*
 ---
 
 ## 🎓 Formação & Background
-- 🎓 **Técnico em Desenvolvimento de Sistemas:** Cursando no **SENAI Anchieta**, com foco em desenvolvimento de software, programação orientada a objetos e aplicações práticas.
+
+- 🎓 **Análise e Desenvolvimento de Sistemas:** Cursando no **Centro Universitário SENAI São Paulo — Campus “Anchieta”**.
+- ✅ **Técnico em Desenvolvimento de Sistemas:** Concluído no **SENAI São Paulo — Campus “Anchieta”**, com formação em desenvolvimento de software, programação orientada a objetos e aplicações práticas.
 
 ---
 
